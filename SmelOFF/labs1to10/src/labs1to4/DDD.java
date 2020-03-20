@@ -27,6 +27,7 @@ public class DDD extends CCC {
     public int sum(){
         return super.sum() + this.sum();
     }
+
     public static int mult(){
         return x*y;
     }

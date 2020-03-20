@@ -2,9 +2,7 @@ package com.company;
 
 public class CCC {
     public static int x;
-    public int getX() {
-        return x;
-    }
+    public int getX() { return x; }
     public void setX(int newProperty){
         x = newProperty;
     }

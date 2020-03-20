@@ -5,7 +5,7 @@ public class Lab3 {
         int[] xx = new int[10];
         for (int i=0; i < xx.length; i++){
             xx[i] = i;
-            System.out.println(xx[i]);
+            System.out.print(xx[i] + " ");
         }
     }
     public static void task2(){
