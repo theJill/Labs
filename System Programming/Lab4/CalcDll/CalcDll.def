@@ -1,0 +1,10 @@
+; CalcDll.def : Declares the module parameters for the DLL.
+
+LIBRARY
+        CalcDll.dll
+
+EXPORTS
+    ; Explicit exports can go here
+    sum @1
+    multiply @2
+    divide @3

@@ -1,0 +1,9 @@
+; MyDLLMFC.def : Declares the module parameters for the DLL.
+
+LIBRARY
+       MyDLLMFC.dll
+
+EXPORTS
+    ; Explicit exports can go here
+	square_int @1
+	send_message_number @2

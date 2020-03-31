@@ -1,4 +1,4 @@
-package com.company;
+package labs1to4;
 
 import static java.lang.Math.pow;
 

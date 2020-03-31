@@ -1,4 +1,4 @@
-package com.company;
+package labs1to4;
 
 public class Lab3 {
     public static void task1(){

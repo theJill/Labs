@@ -1,4 +1,4 @@
-package com.company;
+package labs1to4;
 
 public class CCC {
     public static int x;
